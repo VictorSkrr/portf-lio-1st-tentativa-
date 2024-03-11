@@ -1,0 +1,28 @@
+@media screen {
+    header{
+        background-image:url(../cabeca2.PNG);
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
+        height: 200px;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+    header h1{
+        font-size: 24px;
+        font-weight: bold;
+        margin: 0;
+    }
+
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+       
+
+    }
+    div{
+        border-radius: 20px;
+    }
+    
+}
